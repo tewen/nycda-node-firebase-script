@@ -1,0 +1,14 @@
+{
+  "name": "nycda-node-firebase-script",
+  "version": "0.0.1",
+  "description": "This is an example script to show the NYCDA Angular class how to work with node and firebase.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NYCDA",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^1.0.18"
+  }
+}
